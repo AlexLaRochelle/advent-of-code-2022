@@ -4,9 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node day-6/main.ts",
-    "start:part-2": "ts-node day-6/main-part-2.ts",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "ts-node day-7/main.ts",
+    "start:part-2": "ts-node day-7/main-part-2.ts"
   },
   "keywords": [],
   "author": "",
