@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node day-8/main.ts",
-    "start:part-2": "ts-node day-8/main-part-2.ts"
+    "start": "ts-node day-9/main.ts",
+    "start:part-2": "ts-node day-9/main-part-2.ts"
   },
   "keywords": [],
   "author": "",
